@@ -31,3 +31,6 @@ tmp/
 # system ignore
 .DS_Store
 Thumbs.db
+
+target/
+*/bin/

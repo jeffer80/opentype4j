@@ -1,10 +1,10 @@
 package com.weihq.opentype4j;
 
 import com.weihq.opentype4j.engine.ScriptObjectMirrorWrapper;
-import jdk.nashorn.api.scripting.ScriptObjectMirror;
-
 import java.util.ArrayList;
 import java.util.List;
+
+import org.openjdk.nashorn.api.scripting.ScriptObjectMirror;
 
 /**
  * A list of {@link GlyphData}

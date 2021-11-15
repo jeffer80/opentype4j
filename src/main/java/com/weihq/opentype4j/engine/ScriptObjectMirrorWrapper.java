@@ -1,6 +1,6 @@
 package com.weihq.opentype4j.engine;
 
-import jdk.nashorn.api.scripting.ScriptObjectMirror;
+import org.openjdk.nashorn.api.scripting.ScriptObjectMirror;
 
 /**
  * @author Jkanon

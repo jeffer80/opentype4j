@@ -3,10 +3,11 @@ package com.weihq.opentype4j;
 import com.weihq.opentype4j.engine.ScriptObjectMirrorWrapper;
 import com.weihq.opentype4j.render.FontCell;
 import com.weihq.opentype4j.table.HeadTable;
-import jdk.nashorn.api.scripting.ScriptObjectMirror;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import org.openjdk.nashorn.api.scripting.ScriptObjectMirror;
 
 /**
  * A Glyph is an individual mark that often corresponds to a character.<br/>

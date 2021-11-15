@@ -1,10 +1,10 @@
 package com.weihq.opentype4j;
 
-import jdk.nashorn.api.scripting.ScriptObjectMirror;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+
+import org.openjdk.nashorn.api.scripting.ScriptObjectMirror;
 
 /**
  * Glyph names wrapper

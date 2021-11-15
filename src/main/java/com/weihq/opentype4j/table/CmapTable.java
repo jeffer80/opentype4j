@@ -2,10 +2,10 @@ package com.weihq.opentype4j.table;
 
 
 import com.weihq.opentype4j.AbstractParser;
-import jdk.nashorn.api.scripting.ScriptObjectMirror;
-
 import java.util.HashMap;
 import java.util.Map;
+
+import org.openjdk.nashorn.api.scripting.ScriptObjectMirror;
 
 /**
  * The "cmap" table of a font.

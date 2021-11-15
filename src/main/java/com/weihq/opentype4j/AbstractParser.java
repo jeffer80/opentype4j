@@ -1,7 +1,8 @@
 package com.weihq.opentype4j;
 
+import org.openjdk.nashorn.api.scripting.ScriptObjectMirror;
+
 import com.weihq.opentype4j.engine.ScriptObjectMirrorWrapper;
-import jdk.nashorn.api.scripting.ScriptObjectMirror;
 
 /**
  * Abstract class for converting javascript object to java object
