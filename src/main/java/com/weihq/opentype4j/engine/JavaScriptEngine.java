@@ -16,7 +16,7 @@ public class JavaScriptEngine {
 
 	static {
 		String javaVersion = System.getProperty("java.version");
-		String[] verArray = javaVersion.split(".");
+		String[] verArray = javaVersion.split("\\.");
 		if (verArray.length >= 2) {
 			javaVersion = verArray[0] + "." + verArray[1];
 		}
